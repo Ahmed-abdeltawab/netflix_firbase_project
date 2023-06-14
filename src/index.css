@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap");
+body {
+  background-color: #000000;
+  font-family: "Lato", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+/* .active {
+  background-color: rgb(208, 31, 31);
+  border-radius:5px ;
+  padding: 8px 25px;
+} */
